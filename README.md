@@ -10,7 +10,7 @@
 
 # 🏆 Challenge
 
-　　　　　　　　　　　　　　　![baekjoon](https://github.com/Heongilee/StudyingCodingTests_in_Python/blob/master/acmicpc_net/MarkdownAssets/baekjoon.png?raw=true)
+　　　　　　　　　　　　　　![baekjoon](https://github.com/Heongilee/StudyingCodingTests_in_Python/blob/master/acmicpc_net/MarkdownAssets/baekjoon.png?raw=true)
 
 🗓️ 2021-02-15 ~* 
 
