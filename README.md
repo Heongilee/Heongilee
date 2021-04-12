@@ -7,8 +7,26 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heongilee&show_icons=true&theme=tokyonight)
 	
   </div>
-  
-# **👩🏻‍💻** Project experience
+
+# 🏆 Challenge
+
+## Algorithm group study
+
+🗓️ 2021-02-15 ~ 
+
+🗣️ **Language** : Python3
+
+👥 **Teaming** : 이헌기, 김준혁, 이영남, 홍원표
+
+🙋🏻‍♂️ **Position** : Team member
+
+☑️ **Tasks** : 
+
+- 하루 1문제 풀기
+
+🔗 **Github URL** : [https://github.com/Heongilee/StudyingCodingTests_in_Python](https://github.com/Heongilee/StudyingCodingTests_in_Python)   
+<br>
+# **👨🏻‍💻** Project experience
 
 ## PC방 푸드 오더 시스템 및 서버/클라이언트 채팅
 
@@ -20,7 +38,7 @@ Sejong University*, Seoul – (2019-12-23 ~ 2020-01-03)*
 
 👥 **Teaming** : 이헌기, 정민영, 권동희, 김영현
 
-👨🏻‍💻 **Position** : Team leader
+🙋🏻‍♂️ **Position** : Team leader
 
 ☑️ **Tasks** : 
 
@@ -41,7 +59,7 @@ Sejong University*, Seoul – (2020-03-16 ~ 2020-06-12)*
 
 👥 **Teaming** : 김영현, 이헌기, 정재웅, 위영민
 
-👨🏻‍💻 **Position** : Team member
+🙋🏻‍♂️ **Position** : Team member
 
 ☑️ **Tasks** : 
 
@@ -62,7 +80,7 @@ Sejong University*, Seoul – (2020-07-02 ~ 2020-07-03)*
 
 👥 **Teaming** : 김영현, 이헌기, 정재웅
 
-👨🏻‍💻 **Position** : Team member
+🙋🏻‍♂️ **Position** : Team member
 
 ☑️ **Tasks** : 
 
@@ -82,7 +100,7 @@ Sejong University*, Seoul – (2020-06-29 ~ 2020-07-08)*
 
 👥 **Teaming** : 김태훈, 이헌기, 남재현
 
-👨🏻‍💻 **Position** : Team member
+🙋🏻‍♂️ **Position** : Team member
 
 ☑️ **Tasks** : 
 
