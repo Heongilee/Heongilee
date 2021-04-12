@@ -10,7 +10,7 @@
 
 # 🏆 Challenge
 
-## Algorithm group study
+## 
 
 🗓️ 2021-02-15 ~ 
 
