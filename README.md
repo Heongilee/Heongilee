@@ -10,9 +10,9 @@
 
 # 🏆 Challenge
 
-## 알고리즘 스터디
+　　　　　　　　　　　　　　　![baekjoon](https://github.com/Heongilee/StudyingCodingTests_in_Python/blob/master/acmicpc_net/MarkdownAssets/baekjoon.png?raw=true)
 
-🗓️ 2021-02-15 ~ 
+🗓️ 2021-02-15 ~* 
 
 🗣️ **Language** : Python3
 
@@ -24,8 +24,10 @@
 
 - 하루 1문제 풀기
 
-🔗 **Github URL** : [https://github.com/Heongilee/StudyingCodingTests_in_Python](https://github.com/Heongilee/StudyingCodingTests_in_Python)   
+**🎚️ Solved.ac :**   
+　[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lachrym96)](https://solved.ac/lachrym96)
 <br>
+
 # **👨🏻‍💻** Project experience
 
 ## PC방 푸드 오더 시스템 및 서버/클라이언트 채팅
