@@ -34,7 +34,7 @@
 
 🗣️ **Language** : Python3
 
-👥 **Teaming** : 이헌기, 김준혁, 이영남, 홍원표
+👥 **Teaming** : 이헌기, 김준혁, 이영남, 홍원표, 변성진
 
 🙋🏻‍♂️ **Position** : Team member
 
