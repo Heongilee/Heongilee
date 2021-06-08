@@ -8,7 +8,7 @@
 	
   </div>
 
-# 🏆 Challenge
+# 💪🏻 Challenge
 ## **CodingTestStudy**
 
 🗓️ 2021-06-04 ~ *
