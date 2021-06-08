@@ -17,7 +17,7 @@
 
 👥 **Teaming(Contributor)** : [`🙎🏻‍♂️ Heongilee`](https://github.com/Heongilee) [`🙎🏻‍♂️ Park Hyun Woo`](https://github.com/gusdn3477) [`🙎🏻‍♀️ jiwon Han`](https://github.com/hanjiwon1) [`🙎🏻‍♂️ Seonjae Kyeong`](https://github.com/SEONJAEK)
 
-🙋🏻‍♂️ **Position** : Team member
+🙋🏻‍♂️ **Position** : Team leader
 
 ☑️ **Tasks** : 
 - 한 주에 3문제씩 풀기
