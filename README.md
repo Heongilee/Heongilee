@@ -9,10 +9,28 @@
   </div>
 
 # 🏆 Challenge
+## **CodingTestStudy**
 
-　　　　　　　　　　　　　　![baekjoon](https://github.com/Heongilee/StudyingCodingTests_in_Python/blob/master/acmicpc_net/MarkdownAssets/baekjoon.png?raw=true)
+🗓️ 2021-06-04 ~ *
 
-🗓️ 2021-02-15 ~* 
+🗣️ **Language** : Python3
+
+👥 **Teaming(Contributor)** : [`🙎🏻‍♂️ Heongilee`](https://github.com/Heongilee) [`🙎🏻‍♂️ Park Hyun Woo`](https://github.com/gusdn3477) [`🙎🏻‍♀️ jiwon Han`](https://github.com/hanjiwon1) [`🙎🏻‍♂️ Seonjae Kyeong`](https://github.com/SEONJAEK)
+
+🙋🏻‍♂️ **Position** : Team member
+
+☑️ **Tasks** : 
+- 한 주에 3문제씩 풀기
+- PR로 코드 리뷰하며 팀원과 피드백 주고받기
+- 비정기적으로 백준 연습 기능으로 코딩 대회 진행
+
+🔗 **URL** : https://github.com/Heongilee/CodingTestStudy
+<br>
+<br>
+
+## **백준 스터디**
+
+🗓️ 2021-02-15 ~ 2021-06-06
 
 🗣️ **Language** : Python3
 
@@ -21,11 +39,15 @@
 🙋🏻‍♂️ **Position** : Team member
 
 ☑️ **Tasks** : 
-
 - 하루 1문제 풀기
 
-**🎚️ Solved.ac :**   
+🔗 **URL** : https://github.com/Heongilee/Algorithm_Challenge
+<br>
+<br>
+
+# 🎚️ Solved.ac
 　[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lachrym96)](https://solved.ac/lachrym96)
+<br>
 <br>
 
 # **👨🏻‍💻** Project experience
