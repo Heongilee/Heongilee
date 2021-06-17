@@ -114,7 +114,7 @@ Sejong University*, Seoul – (2020-07-02 ~ 2020-07-03)*
 
 🔗 Github URL : [https://github.com/Heongilee/Hackathon_Justbot](https://github.com/Heongilee/Hackathon_Justbot)
 
-## 나의 얼굴과 가장 비슷한 캐릭터을 찾아주는 딥러닝 서비스 ‘마이 디즈니’
+## 나와 가장 비슷한 캐릭터을 찾아주는 딥러닝 기반 서비스 ‘마이 디즈니’
 
 Sejong University*, Seoul – (2020-06-29 ~ 2020-07-08)*
 
