@@ -9,25 +9,6 @@
   </div>
 
 # 💪🏻 Challenge
-## **CodingTestStudy**
-
-🗓️ 2021-06-04 ~ *
-
-🗣️ **Language** : Python3
-
-👥 **Teaming(Contributors)** : [`🙎🏻‍♂️ Heongilee`](https://github.com/Heongilee) [`🙎🏻‍♂️ Park Hyun Woo`](https://github.com/gusdn3477) [`🙎🏻‍♀️ jiwon Han`](https://github.com/hanjiwon1) [`🙎🏻‍♂️ Seonjae Kyeong`](https://github.com/SEONJAEK)
-
-🙋🏻‍♂️ **Position** : Team leader
-
-☑️ **Tasks** : 
-- 한 주에 3문제씩 풀기
-- PR로 코드 리뷰하며 팀원과 피드백 주고받기
-- 비정기적으로 백준 연습 기능으로 코딩 대회 진행
-
-🔗 **URL** : https://github.com/Heongilee/CodingTestStudy
-<br>
-<br>
-
 ## **백준 스터디**
 
 🗓️ 2021-02-15 ~ 2021-06-06
