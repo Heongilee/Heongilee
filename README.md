@@ -33,46 +33,28 @@
 
 # **👨🏻‍💻** Project experience
 
-## PC방 푸드 오더 시스템 및 서버/클라이언트 채팅
+## 코로나 블루 치유 커뮤니티형 웹 서비스 '테라피스트'
 
-Sejong University*, Seoul – (2019-12-23 ~ 2020-01-03)*
+Side Project - (2021-07-16 ~ 2021-10-16)*
 
-모의 PC방 음식 주문과 채팅기능의 PC방 통합 관리 시스템.
+코로나 블루를 주제로 다른 사람과 소통하는 커뮤니티형 웹 서비스입니다. WebRTC 기술을 활용한 화상 및 음성기반의 다자간 통신으로 다른 사람과 대화를 하면서 우울감과 무기력함을 치유받을 수 있습니다.
 
-💻 **TechStack** : JAVA , JDBC , Apache Maven , MySQL , XML Parsing(Weather API)
+💻 **TechStack** : `Spring Boot`, `mariaDB`, `SpringDataJpa`, `ReactJS`, `Docker`, `Jenkins`, `Nginx`, `OAuth`, `JWT`, `REST API`
 
-👥 **Teaming** : 이헌기, 정민영, 권동희, 김영현
-
-🙋🏻‍♂️ **Position** : Team leader
-
-☑️ **Tasks** : 
-
-- 싱글톤, MVC 아키텍처 패턴에 기반한 클래스 설계.
-- JAVA언어 기반 GUI 프로그래밍.
-- JDBC이용한 DB 구축 및 설계.
-- Maven 프로젝트로 라이브러리 의존성 추가.
-
-🔗 **Github URL** : [https://github.com/Heongilee/04_PC_order](https://github.com/Heongilee/04_PC_order)
-
-## 생활폐기물 품목 측정 기술
-
-Sejong University*, Seoul – (2020-03-16 ~ 2020-06-12)*
-
-모바일 플랫폼에서 딥러닝 기반 대형 폐기물 품목 측정 및 인식하는 시스템.
-
-💻 **TechStack** : Flutter/Dart, OpenCV, Darknet(Deep Learning), Firebase, Firestore, Python Selenium Crawling
-
-👥 **Teaming** : 김영현, 이헌기, 정재웅, 위영민
+👥 **Teaming** : 변성진, 정유라, 이헌기
 
 🙋🏻‍♂️ **Position** : Team member
 
 ☑️ **Tasks** : 
 
-- Flutter 프레임워크와 Dart언어를 이용한 모바일 크로스 플랫폼 Front-end 설계 및 구현.
-- Firestore를 이용한 DB 연동 및 CRUD 연산을 하는 로직 작성.
-- Python Selenium Crawler를 이용한 이미지 데이터 크롤링.
+- Spring Boot로 웹 애플리케이션 백엔드 개발
+- Spring Data Jpa를 mariaDB와 함께 사용해 Spring Boot환경에서 REST API 개발
+- Docker Container를 이용한 배포 프로세스 담당. (Dockerfile 작성, 도커라이징)
+- Jenkins를 이용한 CI/CD pipeline 구성 담당.
+- Nginx를 이용하여 웹 서버와 WAS 분리 담당.
+- OpenVidu(WebRTC)를 사용해 다자간 음성 통신 개발 담당.
 
-🔗 Github URL : [https://github.com/Heongilee/Capstone-Team-No_5](https://github.com/Heongilee/Capstone-Team-No_5)
+🔗 Github URL : [https://github.com/Heongilee/Therapist](https://github.com/Heongilee/Therapist)
 
 ## 학과 조교 서비스를 위한 AI 챗봇 '그저봇'
 
@@ -81,7 +63,7 @@ Sejong University*, Seoul – (2020-07-02 ~ 2020-07-03)*
 
 웹 기반 학과 조교 역할을 하는 챗봇으로서 교과과정이나, 학사 일정, 교수님에 대한 정보, 졸업 요건 등을 알려주는 챗봇 시스템.
 
-💻 **TechStack** : Google Dialogflow, HTML5, CSS3, JavaScript, jQuery
+💻 **TechStack** : `Google Dialogflow`, `HTML5`, `CSS3`, `JavaScript`, `jQuery`
 
 👥 **Teaming** : 김영현, 이헌기, 정재웅
 
@@ -101,7 +83,7 @@ Sejong University*, Seoul – (2020-06-29 ~ 2020-07-08)*
 
 반응형 웹 기반 사용자의 얼굴 이미지와 가장 유사한 디즈니 캐릭터를 찾아주는 서비스.
 
-💻 **TechStack** : Teachable Machine 2.0(Deep Learning Framework), HTML5, CSS3, JavaScript, jQuery
+💻 **TechStack** : `Teachable Machine 2.0(Deep Learning Framework)`, `HTML5`, `CSS3`, `JavaScript`, `jQuery`
 
 👥 **Teaming** : 김태훈, 이헌기, 남재현
 
@@ -117,6 +99,48 @@ Sejong University*, Seoul – (2020-06-29 ~ 2020-07-08)*
 
 🔗 Github URL : [https://github.com/Heongilee/2020_SeverProgramming_Design](https://github.com/Heongilee/2020_SeverProgramming_Design)
    
+## 생활폐기물 품목 측정 기술
+
+Sejong University*, Seoul – (2020-03-16 ~ 2020-06-12)*
+
+모바일 플랫폼에서 딥러닝 기반 대형 폐기물 품목 측정 및 인식하는 시스템.
+
+💻 **TechStack** : `Flutter/Dart`, `OpenCV`, `Darknet(Deep Learning)`, `Firebase`, `Firestore`, `Python Selenium Crawling`
+
+👥 **Teaming** : 김영현, 이헌기, 정재웅, 위영민
+
+🙋🏻‍♂️ **Position** : Team member
+
+☑️ **Tasks** : 
+
+- Flutter 프레임워크와 Dart언어를 이용한 모바일 크로스 플랫폼 Front-end 설계 및 구현.
+- Firestore를 이용한 DB 연동 및 CRUD 연산을 하는 로직 작성.
+- Python Selenium Crawler를 이용한 이미지 데이터 크롤링.
+
+🔗 Github URL : [https://github.com/Heongilee/Capstone-Team-No_5](https://github.com/Heongilee/Capstone-Team-No_5)
+
+## PC방 푸드 오더 시스템 및 서버/클라이언트 채팅
+
+Sejong University*, Seoul – (2019-12-23 ~ 2020-01-03)*
+
+모의 PC방 음식 주문과 채팅기능의 PC방 통합 관리 시스템.
+
+💻 **TechStack** : `JAVA`, `JDBC`, `Apache Maven`, `MySQL`, `XML Parsing(Weather API)`
+
+👥 **Teaming** : 이헌기, 정민영, 권동희, 김영현
+
+🙋🏻‍♂️ **Position** : Team leader
+
+☑️ **Tasks** : 
+
+- 싱글톤, MVC 아키텍처 패턴에 기반한 클래스 설계.
+- JAVA언어 기반 GUI 프로그래밍.
+- JDBC이용한 DB 구축 및 설계.
+- Maven 프로젝트로 라이브러리 의존성 추가.
+
+🔗 **Github URL** : [https://github.com/Heongilee/04_PC_order](https://github.com/Heongilee/04_PC_order)
+
+
 ---
 <!--
 **Heongilee/Heongilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
