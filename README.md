@@ -39,7 +39,7 @@ Side Project - (2021-07-16 ~ 2021-10-16)*
 
 코로나 블루를 주제로 다른 사람과 소통하는 커뮤니티형 웹 서비스입니다. WebRTC 기술을 활용한 화상 및 음성기반의 다자간 통신으로 다른 사람과 대화를 하면서 우울감과 무기력함을 치유받을 수 있습니다.
 
-💻 **TechStack** : `Spring Boot`, `mariaDB`, `SpringDataJpa`, `ReactJS`, `Docker`, `Jenkins`, `Nginx`, `OAuth`, `JWT`, `REST API`
+💻 **TechStack** : `Spring Boot`, `mariaDB`, `SpringDataJpa`, `ReactJS`, `OpenVidu`, `Docker`, `Jenkins`, `Nginx`, `OAuth`, `JWT`, `REST API`
 
 👥 **Teaming** : 변성진, 정유라, 이헌기
 
