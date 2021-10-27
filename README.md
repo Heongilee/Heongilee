@@ -49,7 +49,7 @@ Side Project - (2021-07-16 ~ 2021-10-16)*
 
 - Spring Boot로 웹 애플리케이션 백엔드 개발
 - Spring Data Jpa를 mariaDB와 함께 사용해 Spring Boot환경에서 REST API 개발
-- Docker Container를 이용한 배포 프로세스 담당. (Dockerfile 작성, 도커라이징)
+- Docker Container를 이용한 배포 환경 구성 담당. (Dockerfile 작성, 도커라이징)
 - Jenkins를 이용한 CI/CD pipeline 구성 담당.
 - Nginx를 이용하여 웹 서버와 WAS 분리 담당.
 - OpenVidu(WebRTC)를 사용해 다자간 음성 통신 개발 담당.
