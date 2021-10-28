@@ -27,7 +27,10 @@
 <br>
 
 # 🎚️ Solved.ac
-　[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lachrym96)](https://solved.ac/lachrym96)
+> 초심으로 돌아가기  
+   
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=awesome_heonjjang" />　<img width="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lachrym96" />
+
 <br>
 <br>
 
